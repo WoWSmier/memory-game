@@ -2,7 +2,6 @@
 
 :root {
 	--primary-color: #5653ff;
-	--secondary-color: #ffffff;
 	--background-color: #f1f5ff;
 	--font-color: #1e1e1e;
 
@@ -11,4 +10,8 @@
 
 body {
 	margin: 0;
+}
+
+button {
+	all: initial;
 }
